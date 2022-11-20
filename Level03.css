@@ -1,0 +1,5 @@
+/* flexboxfroggy Level 3 Answer */
+#pond {
+  display: flex;
+  justify-content: space-around;
+}

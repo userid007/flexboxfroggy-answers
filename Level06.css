@@ -1,0 +1,6 @@
+/* flexboxfroggy Level 6 Answer */
+#pond {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
